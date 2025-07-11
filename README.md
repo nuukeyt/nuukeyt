@@ -37,6 +37,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-barbosa-820901249)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro.code034)
 
-
+<img src="https://raw.githubusercontent.com/nuukeyt/nuukeyt/output/snake.svg" alt="Snake animation" />
 
 <p align="center">💻 Sempre aprendendo e desenvolvendo com amor!</p>
